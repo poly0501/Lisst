@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-
+//uyu
 struct card {
 char *name;
 char *FIO;
